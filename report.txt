@@ -1,0 +1,70 @@
+2016csb1034
+Meghana Batchu
+
+
+https://github.com/MeghanaBatchu/lab3.git
+
+first the steps done are 
+go to the folder of the file
+
+echo "# lab3" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/MeghanaBatchu/lab3.git
+git push -u origin master
+
+
+git add old.tex
+git commit -m "second commit"
+git push -u origin master
+
+similarly for all the files
+
+for checking the status use $git status
+$git tag V1.0
+$git push -u origin master
+
+
+
+$ git clone https://github.com/MeghanaBatchu/lab3.git
+
+now del and push from terminal 2
+
+now from another terminal go to the folder $cd labfinal
+$git add new.tex
+$git commit -m "9 commit"
+$git push -u origin master
+
+
+from terminal 1 do $git pull
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
